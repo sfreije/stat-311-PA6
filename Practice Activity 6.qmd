@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "sophia henry caitlin"
 format: html
 editor: visual
 self-contained: true
